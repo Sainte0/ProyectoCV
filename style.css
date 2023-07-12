@@ -68,4 +68,5 @@ form textarea {
 button {
     padding: 8px 16px;
     background-color: #3825e2;
+    box-shadow: 0 0 5px #888;
 }
